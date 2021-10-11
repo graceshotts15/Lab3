@@ -1,0 +1,33 @@
+h1{
+  color: blueviolet;
+  font-style:italic;
+  font-size: 2em;
+  font-family:serif;
+  }
+h3{
+  color: #8B008B;
+}
+p{
+  font-family: arial;
+  font-size: 1em;
+  color: #F8F8FF;
+}
+li{
+  color:#9370DB;
+}
+div{
+  background-color:#F8F8FF;
+  text-align:center;
+  padding: 25px 0;
+  font-size: 3em;
+  font-style:bold;
+  float:left;
+}
+body {
+background-color: #000000;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
